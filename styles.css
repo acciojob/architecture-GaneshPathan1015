@@ -1,9 +1,11 @@
 /*  your css code here. If applicable */
 body{
-	
-	width : 100px;
+	width:1100px;
 	background-color:lightgray;
 }
 .imageContainer{
 	height:250px;
+}
+table{
+	width:1100px;
 }
